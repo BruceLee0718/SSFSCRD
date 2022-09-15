@@ -1,5 +1,5 @@
 
-If this code is helpful for you, please cite the following papers:
+If this code is helpful for you, please cite the following paper:
 **BibTex Format:**<br />
 ```
 @article{zhao2020spectral,
